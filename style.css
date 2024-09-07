@@ -1,0 +1,17 @@
+body {
+  background-color: bisque;
+}
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: rgb(240, 186, 85);
+  border-style: dotted;
+  padding-left: 10px;
+}
+td {
+  padding: 10px;
+  background-color: rgba(244, 132, 92, 0.852);
+}
+th {
+  padding: 15px;
+  background-color: rgb(247, 131, 90);
+}
